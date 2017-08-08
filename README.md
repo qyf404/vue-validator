@@ -19,7 +19,7 @@ Validator component for Vue.js
 
 ## :book: Documentation
 - v2 later
-    - See [here](http://kazupon.github.io/vue-validator/)
+    - See [here](https://kazupon.github.io/vue-validator/)
 - v3
     - **WIP** :construction: [here](https://kazupon.github.io/vue-validator/)
 
